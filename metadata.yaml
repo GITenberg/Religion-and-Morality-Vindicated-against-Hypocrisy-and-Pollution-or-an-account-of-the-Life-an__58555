@@ -1,5 +1,8 @@
 _repo: Religion-and-Morality-Vindicated-against-Hypocrisy-and-Pollution-or-an-account-of-the-Life-an__58555
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58555-h/images/cover.jpg
 creator:
   author:
     agent_name: Bell, Robert
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/335
     wikipedia: http://en.wikipedia.org/wiki/Robert_Bell_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58555#Religion-and-Morality-Vindicated-against-Hypocrisy-and-Pollution-or-an-account-of-the-Life-an_
 gutenberg_issued: '2018-12-27'
 gutenberg_type: Text
 identifiers:
